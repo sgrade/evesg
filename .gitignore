@@ -18,4 +18,4 @@
 evesg
 
 # *.txt files
-**/*.txt
+# **/*.txt

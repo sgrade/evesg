@@ -1,4 +1,5 @@
-package main
+// File extension changed and commented out "package main" below, so VSCode doesn't complain
+// package main
 
 import (
 	"errors"

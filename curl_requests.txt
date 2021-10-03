@@ -1,0 +1,9 @@
+curl http://localhost:8080/items \
+    --header "Content-Type: application/json" \
+    --request "GET"
+
+curl http://localhost:8080/items \
+    --include \
+    --header "Content-Type: application/json" \
+    --request "POST" \
+    --data '{"id": "4","name": "Tayra","type": "Ship","price": 49.99}'
