@@ -1,5 +1,5 @@
 # evesg
-Playing with go language
+Playing with EveOnline
 
 ## wiki
 
